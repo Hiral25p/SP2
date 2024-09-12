@@ -1,1 +1,1 @@
-# SP2
+# SP2: Simple Python program
